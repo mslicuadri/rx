@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Radiología</title>
+    <style>
+      body {
+        margin-left: 5cm;
+        margin-right: 5cm;
+        margin-bottom: 5cm;
+        background-color: rgb(195, 255, 235);
+        font-family: "Times New Roman", Times, serif;
+        font-size: large;
+        text-align: center;
+      }
+      img {
+        height: 12cm;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 1cm;
+        margin-bottom: 1cm;
+      }
+      li {
+        text-align: left;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Introducción A La Radiología</h1>
+
+    <h2>¿Qué es la Radiología?</h2>
+    <p>
+      La radiología es una rama derivada de la medicina, la cual nos ayuda
+      mayormente gracias a radioaciones ionizantes a observar distintas zonas
+      del cuerpo humano.<br />
+      El tipo de radiación ionizante que más nos importa en este caso son los
+      tan conocidos Rayos X. Llamados de esta manera tan particular ya que se
+      desconoce su orígen. <br />
+      Dicha forma de radiación atraviesa en mayor o menor medida los distintos
+      objetos (en este caso, el cuerpo humano) y este grado de atenuación de la
+      radiación es el que nos da las imágenes que llamamos radiografías.
+    </p>
+
+    <img src="rad.jpg" alt="imágen de radióloga" />
+
+    <p>
+      Hay cientos de tipos de radiografías diferentes
+      <a href="#tipos">(para ver algunos ejemplos haga click aquí)</a>, incluso
+      para la misma parte del cuerpo puede haber muchas posiciones y
+      proyecciones diferentes, todo dependiendo de lo que quiera ver el doctor
+      según el tipo de patología. <br />
+      No obstante, dentro de la radiología no todos los estudios requieren
+      radiación.<br />
+      A continuación podrá encontrar una lista de estudios con sus respectivos
+      medios para obtener las imágenes:
+    </p>
+
+    <ul>
+      <li>
+        Radiografía: obtiene las imágenes mediante un haz de rayos x que dura
+        milisegundos.
+      </li>
+      <li>
+        Tomografía: usa rayos x, sin embargo los usa dando una rotación de 360°
+        al rededor del cuerpo para obtener cortes anatómicos axiales, coronales
+        y sagitales.
+        <a href="tomo.html" target="_blank">Para saber más haga click aquí.</a>
+      </li>
+      <li>
+        Ecografía: como su nombre lo indica, la Ecografía obtiene imágenes a
+        partir del sonido. El ecógrafo emite una frecuencia que los distintos
+        órganos devuelven según su densidad.
+        <a href="eco.html" target="_blank">Para saber más haga click aquí.</a>
+      </li>
+      <li>
+        Resonancia Magnética: en pocas palabras, la RMN logra las imágenes
+        gracias a unos poderosos imánes que captan la diferencia entre la
+        cantidad de átomos de hidrógeno que tiene cada estructura.
+        <a href="reso.html" target="_blank">Para saber más haga click aquí.</a>
+      </li>
+    </ul>
+
+    <h2>¿Cómo es el procedimiento?</h2>
+    <p>
+      El tecnólogo, una persona especialmente capacitada para realizar los
+      exámenes de radiología, posiciona al paciente en la mesa de rayos X y
+      coloca el sostenedor de la película de rayos X o la placa de registro
+      digital debajo de la mesa en el área del cuerpo de la que se tomará
+      imágenes. En caso de ser necesario, se utilizarán sacos de arena,
+      almohadas u otros dispositivos de posicionamiento para ayudarlo a mantener
+      la posición correcta. Se colocará un delantal de plomo sobre el área
+      pélvica o pechos de ser posible para protegerla de la radiación.<br />
+
+      Usted debe permanecer inmóvil y podría tener que contener la respiración
+      durante unos pocos segundos mientras su tecnólogo hace la radiografía.
+      Esto ayuda a reducir la posibilidad de que salga borrosa. El tecnólogo se
+      dirigirá detrás de una pared o hacia la sala contigua para activar la
+      máquina de rayos X. <br />
+
+      Usted será reposicionado para otra visualización y el proceso se repite.
+      Se tomarán por lo general dos o tres imágenes (de diferentes ángulos).<br />
+
+      Se puede tomar una radiografía del miembro no afectado, o de la lámina
+      epifisaria del niño (donde se forma el nuevo hueso) con fines
+      comparativos.<br />
+
+      Al completar el examen, el tecnólogo podría pedirle que espere hasta que
+      el radiólogo confirme que tienen todas las imágenes necesarias.<br />
+
+      Una radiografía ósea por lo general se realiza en 5 a 10 minutos.
+    </p>
+    <h2>¿Cuáles son los beneficios y los riesgos?</h2>
+    <h3>Beneficios</h3>
+    <ul>
+      <li>
+        Las radiografías óseas reflejan la manera más rápida y fácil para un
+        médico de visualizar y evaluar lesiones en los huesos, incluyendo
+        fracturas y anormalidades en las articulaciones tales como la artritis.
+      </li>
+      <li>
+        El equipo de rayos X es relativamente económico y se encuentra
+        ampliamente disponible en las salas de emergencia, los consultorios
+        médicos, los centros de atención médica ambulatoria, asilos y otras
+        instituciones. Esto hace que sea conveniente tanto para los pacientes
+        como para los médicos.
+      </li>
+      <li>
+        Teniendo en cuenta la rapidez y facilidad que brindan las imágenes de
+        rayos X, son de especial utilidad en los casos de diagnóstico y
+        tratamiento de emergencia.
+      </li>
+      <li>Luego del examen no queda radiación en su cuerpo.</li>
+      <li>
+        Los rayos X por lo general no tienen efectos secundarios en el rango de
+        diagnóstico típico para este examen.
+      </li>
+    </ul>
+
+    <h3>Riesgos</h3>
+    <ul>
+      <li>
+        Siempre existe una leve probabilidad de tener cáncer como consecuencia
+        de la exposición a la radiación. Sin embargo, dada la pequeña cantidad
+        utilizada en las imágenes médicas, el beneficio de un diagnóstico exacto
+        supera ampliamente el riesgo asociado.
+      </li>
+      <li>
+        La dosis de radiación para este proceso puede variar. Vea la página de
+        seguridad con respecto a la dosis de radiación en los exámenes por rayos
+        X y por TC para más información sobre dosis de radiación.
+      </li>
+      <li>
+        Las mujeres siempre deben informar al médico y al tecnólogo de rayos X
+        si están embarazadas. Vea la página sobre Seguridad en Rayos X,
+        Radiología Intervencionista y Procedimientos de Medicina Nuclear para
+        obtener mayor información sobre el embarazo y los rayos X.
+      </li>
+    </ul>
+
+    <h2 id="tipos">Tipos de Radiografía</h2>
+    <p>
+      Como se dijo en la sección anterior, hay varias formas de visualizar la
+      misma zona anatómica, dependiendo de lo que se busque. Por ejemplo, si uno
+      desea ver una fractura en un dedo o metacarpiano, bastará con hacer una
+      mano frente y oblicua (o perfil, dependiendo del gusto del técnico), pero
+      si se sospecha una fractura en algún hueso del carpo, se puede realizar
+      una radiografía de tunel carpiano y puente carpiano. Otro ejemplo: si se
+      desea ver la parte anterior del cráneo se hará un cráneo frente y perfil,
+      siendo el frente en una proyección posteroanterior (es decir, la radiación
+      entra por el posterior y sale por el anterior), pero si la lesión es en la
+      parte posterior, el frente se realiza en anteroposterior. No obstante, si
+      el golpe es en la parte occipital se le añadirá una proyección Towne para
+      ver ese hueso bien desplegado.<br />
+      Las radiografías se pueden distinguir por el tipo de su proyección, ya sea
+      AP, PA o con alguna angulación específica, o por la zona del cuerpo que
+      nos interesa estudiar. <br />
+      El nombre de la radiografía tiene dos partes: la zona y la posición. EJ:
+      Rodilla Frente / Columna Lumbar Perfil / Clavícula Axial.
+    </p>
+    <img src="ma.jpg" alt="radiografía de mano frente" />
+
+    La radiografía de torax (abrevoada rx tx) es la más común entre todas, ya
+    que se pide en varios casos, ya sea en busca de una enfermedad respiratoria,
+    para buscar una cardiomegália, cáncer, algún cuerpo extraño o demás. Hay
+    muchas enfermedades respiratorias que pueden ser diagnosticadas gracias a la
+    rx tx, ya que algunas de estas generan una imágen que se distingue bien del
+    resto, tales como:
+    <ul>
+      <li><a href="tbc.html">Tuberculosis</a></li>
+      <li><a href="neumo.html">Neumotórax</a></li>
+      <li><a href="otra-enfermedad.html">Sarcoidosis</a></li>
+    </ul>
+    <img src="tx.jpg" alt="radiografía de tórax" />
+  </body>
+</html>
